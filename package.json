@@ -1,10 +1,10 @@
 {
-  "author": "Evernote",
-  "name": "evernote",
-  "description": "Evernote SDK for Node.js",
+  "author": "Yinxinag",
+  "name": "yinxiang",
+  "description": "Yinxiang SDK for Node.js",
   "version": "1.25.8-beta",
   "repository": {
-    "url": "https://github.com/evernote/evernote-sdk-js"
+    "url": "https://github.com/sunjingyun/yinxiang-sdk-js"
   },
   "main": "index",
   "directories": {
