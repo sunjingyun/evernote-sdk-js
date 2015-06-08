@@ -28,7 +28,7 @@ var Client = function(options) {
   if (this.sandbox) {
     var defaultServiceHost = 'sandbox.evernote.com';
   } else {
-    var defaultServiceHost = 'www.evernote.com';
+    var defaultServiceHost = 'app.yinxiang.com';
   }
   this.serviceHost = options.serviceHost || defaultServiceHost;
   this.additionalHeaders = options.additionalHeaders || {};
